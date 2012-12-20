@@ -2,7 +2,8 @@
 #include <opencv2/opencv.hpp>
 using namespace std;
 using namespace cv;
-//följkafjö
+//1
+//Zrd
 int main ()
 {
 	VideoCapture video;
