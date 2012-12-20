@@ -2,7 +2,7 @@
 #include <opencv2/opencv.hpp>
 using namespace std;
 using namespace cv;
-//
+//följkafjö
 int main ()
 {
 	VideoCapture video;
